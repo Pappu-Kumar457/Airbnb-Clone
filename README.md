@@ -31,7 +31,7 @@ A full-stack Airbnb Clone web application where users can create, view, edit, an
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/Airbnb-Clone.git
+git clone https://github.com/Pappu-Kumar457/Airbnb-Clone.git
 
 2️⃣ Install dependencies
 
